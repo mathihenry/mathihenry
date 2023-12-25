@@ -4,4 +4,4 @@
 - 🌱 Eterno Estudante de Tecnologia.
 - 😄 Pronomes: ele/dele.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathihenry&show_icons=true&theme=cobalt)
