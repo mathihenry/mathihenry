@@ -1,8 +1,13 @@
-### Olá! Eu sou o Matheus Nunes 👋
+### Olá, sou Pedro Silva!
+Bem vindo a minha pagina :) 👋
 
-- 🔭 Estudante de Front-End.
-- 🌱 Eterno Estudante de Tecnologia.
+Tenho 20 anos, sou de Porto Velho - RO, sou estudante de Programação WEb (Front-End) 
 
+Metas 2024: 
+
+- 🔭 Conseguir minha primeira vaga como programador.
+- 🌱 Melhorar meu ambiente e estudo para trabalho.
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathihenry&show_icons=true&theme=cobalt)
 
 
