@@ -7,7 +7,7 @@ Metas 2024:
 
 - 🔭 Conseguir minha primeira vaga como programador.
 - 🌱 Melhorar meu ambiente e estudo para trabalho.
-  
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathihenry&show_icons=true&theme=cobalt)
 
 
