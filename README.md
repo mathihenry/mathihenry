@@ -1,11 +1,12 @@
 ### Olá, sou Matheus Nunes!
 Bem vindo a minha pagina :) 👋
 
-Tenho 20 anos, sou de Porto Velho - RO, sou estudante de Programação WEb (Front-End) 
+Tenho 21 anos, sou de Porto Velho - RO, sou estudante de ADS (Analise e Desenvolvimento de Sistemas)
+e apaixonado por web desenvolvimento.
 
 Metas 2024: 
 
-- 🔭 Conseguir minha primeira vaga como programador.
+- 🔭 Conseguir minha primeira vaga como programador (Junior).
 - 🌱 Melhorar meu ambiente e estudo para trabalho.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathihenry&show_icons=true&theme=cobalt)
